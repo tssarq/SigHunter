@@ -3,8 +3,7 @@ SigHunter is an efficient GUI scanning tool designed for detecting malicious fil
 <br />
 <br />
 ![SigHunter-1 2](https://github.com/tssarq/SigHunter/blob/main/SigHunter-1.2.png)
-
-![SigHunter-1 2](https://github.com/user-attachments/assets/08cd89d3-66eb-4c9a-9534-03f88175919d)
-
+<br />
+<br />
 # Follow Me:
 https://www.linkedin.com/in/theyab-alrubaie-85a1a3119/
