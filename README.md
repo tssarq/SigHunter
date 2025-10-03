@@ -2,7 +2,7 @@
 SigHunter is an efficient GUI scanning tool designed for detecting malicious files using YARA rules [Windows]
 <br />
 <br />
-![SigHunter-1 2](https://github.com/tssarq/SigHunter/blob/main/SigHunter-1.2.png)
+![SigHunter-1 2](https://github.com/tssarq/SigHunter/blob/main/SigHunter.png)
 <br />
 <br />
 # Follow Me:
