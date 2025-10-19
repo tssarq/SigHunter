@@ -28,7 +28,7 @@ SigHunter is an efficient GUI scanning tool designed for detecting malicious fil
 <ul>
 <li>Scan with VirusTotal</li>
 <li>Open File Location (launch Explorer at the selected file)</li>
-<ul>   
+</ul> 
 <br />
 [+] Short Log mode includes:
 <ul>
@@ -38,7 +38,7 @@ SigHunter is an efficient GUI scanning tool designed for detecting malicious fil
 <li>Rule Name</li>
 <li>File Hash</li>
 <li>Matched Strings</li>
-<ul>  
+</ul>  
 <br />
 
 [+] Support for YARA external variables:
@@ -47,7 +47,7 @@ SigHunter is an efficient GUI scanning tool designed for detecting malicious fil
 <li>filename</li>
 <li>extension</li>
 <li>filetype</li>
-<ul>  
+</ul>  
     
 <br />    
     
