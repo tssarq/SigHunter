@@ -6,7 +6,6 @@ SigHunter is an efficient GUI scanning tool designed for detecting malicious fil
 <br />
 <br />
 # SigHunter 1.4
-<br />
 [+] Process Scanning Support
 <br />
 [+] New Tools Section, includes base64 encryption utility
@@ -18,7 +17,6 @@ SigHunter is an efficient GUI scanning tool designed for detecting malicious fil
 
 
 # SigHunter 1.3
-<br />
 [+] General GUI and performance improvements.
 <br />
 [+] Direct upload of encrypted YARA rules (Base64).
@@ -40,7 +38,6 @@ SigHunter is an efficient GUI scanning tool designed for detecting malicious fil
 <li>Matched Strings</li>
 </ul>  
 
-
 [+] Support for YARA external variables:
 <ul>
 <li>filepath</li>
@@ -49,10 +46,6 @@ SigHunter is an efficient GUI scanning tool designed for detecting malicious fil
 <li>filetype</li>
 </ul>  
     
-
-    
-    
-
 Sample YARA rule:
 <br />
 rule External_Variables
@@ -69,8 +62,8 @@ rule External_Variables
               and filetype == "application/x-msdownlaod"
 }
 ```
+
 # SigHunter 1.2
-<br />
 [+] Redesigned and improved the interface for better clarity and usability.
 <br />
 [+] More organized layout for quick access to scan settings and results.
@@ -93,7 +86,6 @@ rule External_Variables
 </ul> 
 
 # SigHunter 1.1  
-<br />
 [+] YARA-Based Scanning Engine
 <br />
 [+] Custom Path Selection
