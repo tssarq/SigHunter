@@ -29,7 +29,7 @@ SigHunter is an efficient GUI scanning tool designed for detecting malicious fil
 <li>Scan with VirusTotal</li>
 <li>Open File Location (launch Explorer at the selected file)</li>
 </ul> 
-<br />
+
 [+] Short Log mode includes:
 <ul>
 <li>Hostname</li>
