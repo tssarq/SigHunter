@@ -69,7 +69,7 @@ rule External_Variables
               and filetype == "application/x-msdownlaod"
 }
 ```
-# SigHunter 1.3
+# SigHunter 1.2
 <br />
 [+] Redesigned and improved the interface for better clarity and usability.
 <br />
@@ -90,8 +90,14 @@ rule External_Variables
 <li>File size (greater than / less than)</li>
 <li>Change date</li>
 <li>File extension/type (e.g., .exe, .php, .pdf)</li>
-</ul>  
-    
+</ul> 
+
+# SigHunter 1.1    
+[+] YARA-Based Scanning Engine
+[+] Custom Path Selection
+[+] Scans folders, drives
+[+] Real-Time Results in List view
+[+] Export Scan Report
 
 # Follow Me:
 https://www.linkedin.com/in/theyab-alrubaie-85a1a3119/
