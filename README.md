@@ -39,7 +39,7 @@ SigHunter is an efficient GUI scanning tool designed for detecting malicious fil
 <li>File Hash</li>
 <li>Matched Strings</li>
 </ul>  
-<br />
+
 
 [+] Support for YARA external variables:
 <ul>
@@ -49,7 +49,7 @@ SigHunter is an efficient GUI scanning tool designed for detecting malicious fil
 <li>filetype</li>
 </ul>  
     
-<br />    
+
     
     
 
@@ -57,7 +57,7 @@ Sample YARA rule:
 <br />
 rule External_Variables
 <br />
-{
+(`` {
     strings:
         $evil = "EvilString" nocase wide ascii
 
@@ -67,6 +67,7 @@ rule External_Variables
               and extension == "exe"
               and filetype == "application/x-msdownlaod"
 }
+ ``).
 
 
 
