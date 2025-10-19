@@ -69,8 +69,29 @@ rule External_Variables
               and filetype == "application/x-msdownlaod"
 }
 ```
-
-
+# SigHunter 1.3
+<br />
+[+] Redesigned and improved the interface for better clarity and usability.
+<br />
+[+] More organized layout for quick access to scan settings and results.
+<br />
+[+] Users can now load all YARA rules from a selected folder at once.
+<br />
+[+] A real-time progress bar now shows the scan completion percentage to track scan progress easily.
+<br />
+[+] The scan log format is now more structured, including detailed metadata to support forensic analysis.
+<br />
+[+] A new interactive folder & drive tree view has been added to allow intuitive selection of scan paths.
+<br />
+[+] Users can double-click a file name to open VirusTotal for more details or access the file's location for manual inspection.
+<br />
+[+] Users can now filter scanned files based on:
+<ul>
+<li>File size (greater than / less than)</li>
+<li>Change date</li>
+<li>File extension/type (e.g., .exe, .php, .pdf)</li>
+</ul>  
+    
 
 # Follow Me:
 https://www.linkedin.com/in/theyab-alrubaie-85a1a3119/
