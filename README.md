@@ -92,11 +92,16 @@ rule External_Variables
 <li>File extension/type (e.g., .exe, .php, .pdf)</li>
 </ul> 
 
-# SigHunter 1.1    
+# SigHunter 1.1  
+<br />
 [+] YARA-Based Scanning Engine
+<br />
 [+] Custom Path Selection
+<br />
 [+] Scans folders, drives
+<br />
 [+] Real-Time Results in List view
+<br />
 [+] Export Scan Report
 
 # Follow Me:
