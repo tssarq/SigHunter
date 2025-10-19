@@ -16,6 +16,6 @@ SigHunter is an efficient GUI scanning tool designed for detecting malicious fil
 [+] YARA rule error debug
 <br />
 [+] YARA rule error debug
-<br />
+
 # Follow Me:
 https://www.linkedin.com/in/theyab-alrubaie-85a1a3119/
