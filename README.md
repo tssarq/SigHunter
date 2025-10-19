@@ -56,7 +56,7 @@ SigHunter is an efficient GUI scanning tool designed for detecting malicious fil
 Sample YARA rule:
 <br />
 rule External_Variables
-<br />
+
 (```) {
     strings:
         $evil = "EvilString" nocase wide ascii
