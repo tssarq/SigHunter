@@ -25,8 +25,8 @@ SigHunter is an efficient GUI scanning tool designed for detecting malicious fil
 <br />
 [+] Add a right-click context menu to the detected files list with two options:
 <br />
-<ul><li>Scan with VirusTotal</li><li>item2</li></ul>
-<ul><li>Open File Location (launch Explorer at the selected file)</li><li>item2</li></ul>    
+<ul><li>Scan with VirusTotal</li>
+<ul><li>Open File Location (launch Explorer at the selected file)</li>
     
 <br />
 [+] Short Log mode includes:
