@@ -28,28 +28,35 @@ SigHunter is an efficient GUI scanning tool designed for detecting malicious fil
 <ul>
 <li>Scan with VirusTotal</li>
 <li>Open File Location (launch Explorer at the selected file)</li>
-<ul>
-    
+<ul>   
 <br />
 [+] Short Log mode includes:
-
-    Hostname
-    Creation Time
-    Full File Path
-    Rule Name
-    File Hash
-    Matched Strings
+<ul>
+<li>Hostname</li>
+<li>Creation Time</li>
+<li>Full File Path</li>
+<li>Rule Name</li>
+<li>File Hash</li>
+<li>Matched Strings</li>
+<ul>  
+<br />
 
 [+] Support for YARA external variables:
-
-    filepath
-    filename
-    extension
-    filetype
+<ul>
+<li>filepath</li>
+<li>filename</li>
+<li>extension</li>
+<li>filetype</li>
+<ul>  
+    
+<br />    
+    
+    
 
 Sample YARA rule:
-
+<br />
 rule External_Variables
+<br />
 {
     strings:
         $evil = "EvilString" nocase wide ascii
