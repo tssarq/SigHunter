@@ -57,7 +57,7 @@ Sample YARA rule:
 <br />
 rule External_Variables
 <br />
-(`` {
+(```) {
     strings:
         $evil = "EvilString" nocase wide ascii
 
@@ -67,7 +67,7 @@ rule External_Variables
               and extension == "exe"
               and filetype == "application/x-msdownlaod"
 }
- ``).
+(```)
 
 
 
