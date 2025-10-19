@@ -57,7 +57,8 @@ Sample YARA rule:
 <br />
 rule External_Variables
 
-``` {
+```
+{
     strings:
         $evil = "EvilString" nocase wide ascii
 
