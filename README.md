@@ -7,15 +7,14 @@ SigHunter is an efficient GUI scanning tool designed for detecting malicious fil
 <br />
 # SigHunter 1.4
 <br />
-[+] Processes scanning supported
+[+] Process Scanning Support
 <br />
-[+] Tools section added, includes base64 encryption tool
+[+] New Tools Section, includes base64 encryption utility
 <br />
-[+] YARA rule error debug
+[+] YARA Rule Debugging
 <br />
-[+] YARA rule error debug
-<br />
-[+] YARA rule error debug
+[+] General Enhancements
+
 
 # Follow Me:
 https://www.linkedin.com/in/theyab-alrubaie-85a1a3119/
